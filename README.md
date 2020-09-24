@@ -16,11 +16,14 @@
 
     ```
     $git clone https://github.com/noureddine-semahi/ns-note-taker.git
-    ```  
-    Then navigate to the the integrated terminal to install the modules and dependencies. Run 
+    ```
+    
+    Then navigate to the the integrated terminal to install the modules and dependencies. Run
+    
     ```
     npm install.
     ```
+    
     Finally run  node app.js in your CLI, and then open `https://localhost:3000` in your browser.
 
 ## Test:
