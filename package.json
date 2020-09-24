@@ -1,0 +1,26 @@
+{
+  "name": "ns-note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noureddine-semahi/ns-note-taker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noureddine-semahi/ns-note-taker/issues"
+  },
+  "homepage": "https://github.com/noureddine-semahi/ns-note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquire": "^0.4.8",
+    "inquirer": "^7.3.3",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {}
+}
