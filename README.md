@@ -14,9 +14,7 @@
 ## Installation:
     You first need to clone the repository to you local development environment.
 
-    ```
-    $git clone https://github.com/noureddine-semahi/ns-note-taker.git
-    ```
+    `$git clone https://github.com/noureddine-semahi/ns-note-taker.git`
     
     Then navigate to the the integrated terminal to install the modules and dependencies. Run
     
